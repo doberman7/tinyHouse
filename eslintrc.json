@@ -1,0 +1,15 @@
+{
+    "parser": "typescript-eslint/parcer",
+    "parcerOption": {
+        "ecmaVersion":2018,
+        "sourcetype":"module"
+    },
+    "extends": ["plugin:@typescript-eslint/recommended"],
+    "env": { "node": true },
+    "rules": {
+        "indent": "off",
+        "@typescript-eslint/indent": "off"
+      }
+
+
+}
