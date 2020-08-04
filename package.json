@@ -12,6 +12,6 @@
         "typescript": "^3.9.7"
     },
     "scripts": {
-        "start": "nodemon src/"
+        "start": "nodemon src/index.ts"
     }
 }
